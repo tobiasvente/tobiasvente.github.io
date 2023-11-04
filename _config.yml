@@ -21,8 +21,8 @@ include:
 author:
   name             : "Tobias Vente"
   avatar           : "img/profile.jpg"
-  bio              : "Lead Decision Scientist @ ShareChat"
-  location         : "Edinburgh, UK"
+  bio              : "Ph.D. candiadate @ University of Siegen"
+  location         : "Siegen, DE"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
