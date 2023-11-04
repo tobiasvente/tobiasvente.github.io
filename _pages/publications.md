@@ -21,15 +21,15 @@ author_profile: true
 
 ### Workshops, Tutorials, Demos & Others
 
-3. The Effect of Random Seeds for Data Splitting on Recommendation Accuracy. 	
+1. The Effect of Random Seeds for Data Splitting on Recommendation Accuracy. 	
 L. Wegmeth, **T. Vente**, L. Purucker, J. Beel. **PERSPECTIVES '23** (_RecSys Workshop_).  
 \[[pdf](https://ceur-ws.org/Vol-3476/paper4.pdf), [video](https://perspectives-ws.github.io/2023/videos/#the-effect-of-random-seeds-for-data-splitting-on-recommendation-accuracy)\]  
 
-4. The Challenges of Algorithm Selection and Hyperparameter Optimization for Recommender Systems. 	
+2. The Challenges of Algorithm Selection and Hyperparameter Optimization for Recommender Systems. 	
 L. Wegmeth, **T. Vente**, J.Beel **COSEAL '23** (_COnfiguration and SElection of ALgorithms Workshop_).  
 \[[poster](https://www.researchgate.net/publication/373825532_The_Challenges_of_Algorithm_Selection_and_Hyperparameter_Optimization_for_Recommender_Systems)\]  
 
-5. The Feasibility of Greedy Ensemble Selection for Automated Recommender Systems.  
+3. The Feasibility of Greedy Ensemble Selection for Automated Recommender Systems.  
 **T. Vente**, L. Purucker, J. Beel. **COSEAL '22** (_COnfiguration and SElection of ALgorithms Workshop_).  
 \[[poster](https://www.researchgate.net/publication/373841225_The_Feasibility_of_Greedy_Ensemble_Selection_for_Automated_Recommender_Systems)\]
 
