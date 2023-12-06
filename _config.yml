@@ -16,6 +16,8 @@ plugins:
 
 include: 
     - _pages
+    - _includes
+    - _layouts
 
 # Site Author
 author:
