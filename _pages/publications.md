@@ -10,11 +10,15 @@ author_profile: true
 
 ### Conferences
 
-1. Introducing LensKit-Auto, an Experimental Automated Recommender System (AutoRecSys) Toolkit.  
+1. Revealing the Hidden Impact of Top-N Metrics on Optimization in Recommender Systems.
+L. Wegmeth, **T. Vente**, L. Purucker. **ECIR** (_Full Paper_).
+\[[ArXiv](https://arxiv.org/abs/2401.08444), [code](https://github.com/ISG-Siegen/scoring-optimizer)]  
+
+2. Introducing LensKit-Auto, an Experimental Automated Recommender System (AutoRecSys) Toolkit.  
 **T. Vente**, M.D. Ekstrand, J. Beel. **RecSys'23** (_Demo Track_).  
 \[[ACM DL](https://dl.acm.org/doi/10.1145/3604915.3610656), [code](https://github.com/ISG-Siegen/lenskit-auto), [video](https://www.youtube.com/watch?v=OTZAb8E_IZI&t=4s)\]  
 
-2. Advancing Automation of Design Decisions in Recommender System Pipelines.   
+3. Advancing Automation of Design Decisions in Recommender System Pipelines.   
 **T. Vente**. **RecSys'23** (_Doctoral Symposium_).  
 \[[ACM DL](https://dl.acm.org/doi/abs/10.1145/3604915.3608886)]
 
