@@ -10,11 +10,11 @@ author_profile: true
 
 ### Conferences
 
-1. From Clicks to Carbon: The Environmental Toll of Recommender Systems
+1. From Clicks to Carbon: The Environmental Toll of Recommender Systems.
 **T. Vente**, L. Wegmeth, A. Said, J. Beel. **ACM RecSys'24** (_Full Paper, Reproducibility Track_)
 \[[ArXiv](https://arxiv.org/abs/2408.08203), [code](https://github.com/ISG-Siegen/recsys-carbon-footprint)]  
 
-2. Recommender Systems Algorithm Selection for Ranking Prediction on Implicit Feedback Datasets
+2. Recommender Systems Algorithm Selection for Ranking Prediction on Implicit Feedback Datasets.
 L. Wegmeth, **T. Vente**, J. Beel. **ACM RecSys'24** (_LBR PAPER_)
 \[[ArXiv](https://arxiv.org/abs/2409.05461), [code](https://github.com/ISG-Siegen/RecSys-Algorithm-Selection-Ranking-Implicit-LBR)]  
 
@@ -22,7 +22,7 @@ L. Wegmeth, **T. Vente**, J. Beel. **ACM RecSys'24** (_LBR PAPER_)
 L. Wegmeth, **T. Vente**, L. Purucker. **ECIR'24** (_Full Paper_).
 \[[Springer](https://link.springer.com/chapter/10.1007/978-3-031-56027-9_9), [code](https://github.com/ISG-Siegen/scoring-optimizer)]  
 
-4. From Theory to Practice: Implementing and Evaluating e-Fold Cross-Validation
+4. From Theory to Practice: Implementing and Evaluating e-Fold Cross-Validation.
 C. Mahlich, T. Vente, J. Beel **CAIMLR'24** (_Full Paper_)
 \[[PDF](https://isg.beel.org/pubs/2024%20From%20Theory%20to%20Practice%20Implementing%20and%20Evaluating%20e-fold%20cross-validation.pdf), [code](https://github.com/ISG-Siegen/e-fold-ml-mahlich/tree/PosterPaper)]  
 
@@ -37,22 +37,22 @@ C. Mahlich, T. Vente, J. Beel **CAIMLR'24** (_Full Paper_)
 
 ### Workshops, Tutorials, Demos & Others
 
-1. Greedy Ensemble Selection for Top-N Recommendations
+1. Greedy Ensemble Selection for Top-N Recommendations.
 **T. Vente**, Z. Mehta, L. Wegmeth, J. Beel. **RobustRecSys Workshop @ RecSys'24** (_Full Paper_)
 
-2. Removing Bad Influence: Identifying and Pruning Detrimental Users in Collaborative Filtering Recommender Systems
+2. Removing Bad Influence: Identifying and Pruning Detrimental Users in Collaborative Filtering Recommender Systems.
 P. Meister, L. Wegmeth, **T. Vente**, J. Beel. **RobustRecSys Workshop @ RecSys'24** (_Short Paper_)
 
-3. EMERS: Energy Meter for Recommender Systems
-L. Wegmeth, **T. Vente**, A. Said, J. Beel. **RecSoGood Workshop @ RecSys'24** (_Short Paper_)
+3. EMERS: Energy Meter for Recommender Systems.
+L. Wegmeth, **T. Vente**, A. Said, J. Beel. **RecSoGood Workshop @ RecSys'24** (_Short Paper_).
 \[[ArXiv](https://arxiv.org/html/2409.15060v1#:~:text=EMERS%20measures%20energy%20consumption%20with,recommender%20systems%20practitioners%20and%20researchers.), [code](https://github.com/ISG-Siegen/emers),
 [video](https://youtu.be/vmXOcrVpRDg)\]  
 
-4. e-Fold Cross-Validation for Recommender-System Evaluation
-M. Baumgart, L. Wegmeth, **T. Vente**, J. Beel. **RecSoGood Workshop @ RecSys'24** (_Short Paper_)
+4. e-Fold Cross-Validation for Recommender-System Evaluation.
+M. Baumgart, L. Wegmeth, **T. Vente**, J. Beel. **RecSoGood Workshop @ RecSys'24** (_Short Paper_).
 
-5. Sustainable Recommender Systems: Optimizing Dataset Size for Energy-Efficient Algorithm Performance
-A. Arabzadeh, **T. Vente**, J. Beel. **RecSoGood Workshop @ RecSys'24** (_Short Paper_)
+5. Sustainable Recommender Systems: Optimizing Dataset Size for Energy-Efficient Algorithm Performance.
+A. Arabzadeh, **T. Vente**, J. Beel. **RecSoGood Workshop @ RecSys'24** (_Short Paper_).
 
 6. The Effect of Random Seeds for Data Splitting on Recommendation Accuracy.  
 L. Wegmeth, **T. Vente**, L. Purucker, J. Beel. **PERSPECTIVES '23** (_RecSys Workshop_). 
