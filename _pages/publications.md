@@ -10,27 +10,31 @@ author_profile: true
 
 ### Conferences
 
-1. From Clicks to Carbon: The Environmental Toll of Recommender Systems  
+1. Checky, the Paper-Submission Checklist Generator for Authors, Reviewers and LLMs  
+J. Beel, B. Gipp, D. Jannach, A. Said, L. Wegmeth, **T Vente**. **ECIR'25** (_Demo Paper_)  
+\[[PDF](https://isg.beel.org/pubs/2025-Checky-Checklist-Generator-ECIR-Beel-et-al.pdf), [code](https://github.com/ISG-Siegen/Checky)]  
+
+2. From Clicks to Carbon: The Environmental Toll of Recommender Systems  
 **T. Vente**, L. Wegmeth, A. Said, J. Beel. **ACM RecSys'24** (_Full Paper, Reproducibility Track_)  
 \[[ArXiv](https://arxiv.org/abs/2408.08203), [code](https://github.com/ISG-Siegen/recsys-carbon-footprint)]  
 
-2. Recommender Systems Algorithm Selection for Ranking Prediction on Implicit Feedback Datasets.  
+3. Recommender Systems Algorithm Selection for Ranking Prediction on Implicit Feedback Datasets  
 L. Wegmeth, **T. Vente**, J. Beel. **ACM RecSys'24** (_LBR PAPER_)  
 \[[ArXiv](https://arxiv.org/abs/2409.05461), [code](https://github.com/ISG-Siegen/RecSys-Algorithm-Selection-Ranking-Implicit-LBR)]  
 
-3. Revealing the Hidden Impact of Top-N Metrics on Optimization in Recommender Systems  
+4. Revealing the Hidden Impact of Top-N Metrics on Optimization in Recommender Systems  
 L. Wegmeth, **T. Vente**, L. Purucker. **ECIR'24** (_Full Paper_)  
 \[[Springer](https://link.springer.com/chapter/10.1007/978-3-031-56027-9_9), [code](https://github.com/ISG-Siegen/scoring-optimizer)]  
 
-4. From Theory to Practice: Implementing and Evaluating e-Fold Cross-Validation  
+5. From Theory to Practice: Implementing and Evaluating e-Fold Cross-Validation  
 C. Mahlich, T. Vente, J. Beel **CAIMLR'24** (_Full Paper_)  
 \[[PDF](https://isg.beel.org/pubs/2024%20From%20Theory%20to%20Practice%20Implementing%20and%20Evaluating%20e-fold%20cross-validation.pdf), [code](https://github.com/ISG-Siegen/e-fold-ml-mahlich/tree/PosterPaper)]  
 
-5. Introducing LensKit-Auto, an Experimental Automated Recommender System (AutoRecSys) Toolkit  
+6. Introducing LensKit-Auto, an Experimental Automated Recommender System (AutoRecSys) Toolkit  
 **T. Vente**, M.D. Ekstrand, J. Beel. **RecSys'23** (_Demo Track_)   
 \[[ACM DL](https://dl.acm.org/doi/10.1145/3604915.3610656), [code](https://github.com/ISG-Siegen/lenskit-auto), [video](https://www.youtube.com/watch?v=OTZAb8E_IZI&t=4s)\]  
 
-6. Advancing Automation of Design Decisions in Recommender System Pipelines   
+7. Advancing Automation of Design Decisions in Recommender System Pipelines   
 **T. Vente**. **RecSys'23** (_Doctoral Symposium_)  
 \[[ACM DL](https://dl.acm.org/doi/abs/10.1145/3604915.3608886)]
 
