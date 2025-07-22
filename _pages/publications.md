@@ -46,15 +46,15 @@ C. Mahlich, T. Vente, J. Beel **CAIMLR'24** (_Full Paper_)
 
 1. The Potential of AutoML for Recommender Systems  
 **T. Vente**, L. Wegmeth, J. Beel. **HyPer Workshop @ ACM UMAP'25** (_Full Paper_)  
-\[[PDF](https://dl.acm.org/doi/10.1145/3708319.3734173)  
+\[[PDF](https://dl.acm.org/doi/10.1145/3708319.3734173)]  
 
 2. Greedy Ensemble Selection for Top-N Recommendations  
 **T. Vente**, Z. Mehta, L. Wegmeth, J. Beel. **RobustRecSys Workshop @ RecSys'24** (_Full Paper_)  
-\[[PDF](https://ceur-ws.org/Vol-3924/short3.pdf)  
+\[[PDF](https://ceur-ws.org/Vol-3924/short3.pdf)]  
 
 3. Removing Bad Influence: Identifying and Pruning Detrimental Users in Collaborative Filtering Recommender Systems  
 P. Meister, L. Wegmeth, **T. Vente**, J. Beel. **RobustRecSys Workshop @ RecSys'24** (_Short Paper_)  
-\[[PDF](https://ceur-ws.org/Vol-3924/short2.pdf)  
+\[[PDF](https://ceur-ws.org/Vol-3924/short2.pdf)]  
 
 4. EMERS: Energy Meter for Recommender Systems  
 L. Wegmeth, **T. Vente**, A. Said, J. Beel. **RecSoGood Workshop @ RecSys'24** (_Short Paper_)  
@@ -63,11 +63,11 @@ L. Wegmeth, **T. Vente**, A. Said, J. Beel. **RecSoGood Workshop @ RecSys'24** (
 
 5. e-Fold Cross-Validation for Recommender-System Evaluation.  
 M. Baumgart, L. Wegmeth, **T. Vente**, J. Beel. **RecSoGood Workshop @ RecSys'24** (_Short Paper_)  
-\[[PDF](https://link.springer.com/chapter/10.1007/978-3-031-87654-7_9)  
+\[[PDF](https://link.springer.com/chapter/10.1007/978-3-031-87654-7_9)]  
 
 6. Sustainable Recommender Systems: Optimizing Dataset Size for Energy-Efficient Algorithm Performance  
 A. Arabzadeh, **T. Vente**, J. Beel. **RecSoGood Workshop @ RecSys'24** (_Short Paper_)  
-\[[PDF](https://arxiv.org/html/2410.09359v1)  
+\[[PDF](https://arxiv.org/html/2410.09359v1)]  
 
 7. The Effect of Random Seeds for Data Splitting on Recommendation Accuracy  
 L. Wegmeth, **T. Vente**, L. Purucker, J. Beel. **PERSPECTIVES '23** (_RecSys Workshop_)  
